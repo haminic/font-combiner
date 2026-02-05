@@ -1,0 +1,5 @@
+out/*
+fonts/donor/*
+fonts/source/*
+
+__pycache__/
